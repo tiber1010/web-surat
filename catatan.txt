@@ -1,0 +1,5 @@
+level admin    : username = admin
+	         password = admin
+
+level pengguna : username = yanti
+	         password = yanti
